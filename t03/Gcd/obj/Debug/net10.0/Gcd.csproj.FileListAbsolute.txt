@@ -1,0 +1,14 @@
+C:\Users\Салтанат\Desktop\ro41-algorithms\t03\Gcd\bin\Debug\net10.0\Gcd.exe
+C:\Users\Салтанат\Desktop\ro41-algorithms\t03\Gcd\bin\Debug\net10.0\Gcd.deps.json
+C:\Users\Салтанат\Desktop\ro41-algorithms\t03\Gcd\bin\Debug\net10.0\Gcd.runtimeconfig.json
+C:\Users\Салтанат\Desktop\ro41-algorithms\t03\Gcd\bin\Debug\net10.0\Gcd.dll
+C:\Users\Салтанат\Desktop\ro41-algorithms\t03\Gcd\bin\Debug\net10.0\Gcd.pdb
+C:\Users\Салтанат\Desktop\ro41-algorithms\t03\Gcd\obj\Debug\net10.0\Gcd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Салтанат\Desktop\ro41-algorithms\t03\Gcd\obj\Debug\net10.0\Gcd.AssemblyInfoInputs.cache
+C:\Users\Салтанат\Desktop\ro41-algorithms\t03\Gcd\obj\Debug\net10.0\Gcd.AssemblyInfo.cs
+C:\Users\Салтанат\Desktop\ro41-algorithms\t03\Gcd\obj\Debug\net10.0\Gcd.csproj.CoreCompileInputs.cache
+C:\Users\Салтанат\Desktop\ro41-algorithms\t03\Gcd\obj\Debug\net10.0\Gcd.dll
+C:\Users\Салтанат\Desktop\ro41-algorithms\t03\Gcd\obj\Debug\net10.0\refint\Gcd.dll
+C:\Users\Салтанат\Desktop\ro41-algorithms\t03\Gcd\obj\Debug\net10.0\Gcd.pdb
+C:\Users\Салтанат\Desktop\ro41-algorithms\t03\Gcd\obj\Debug\net10.0\Gcd.genruntimeconfig.cache
+C:\Users\Салтанат\Desktop\ro41-algorithms\t03\Gcd\obj\Debug\net10.0\ref\Gcd.dll
